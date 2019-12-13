@@ -1,0 +1,14 @@
+<h2>Chat-app users</h2>
+
+<ul class="users">
+  <li *ngFor="let user of users"
+      (click)="onSelect(user)"
+      [class.selected]="user === selectedUser" >
+      <p>{{user.firstName}} {{user.lastName}}</p>
+      <p>{{user.email}}</p>
+      <p>{{user.status}}</p>
+      <p>Age: {{user.age}} Sex: {{user.sex}}</p>
+  </li>
+</ul>
+
+<app-user-detail [user]="selectedUser"></app-user-detail>

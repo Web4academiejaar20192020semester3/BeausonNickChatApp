@@ -1,0 +1,27 @@
+*{
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+body{
+  margin: 2em;
+}
+
+body, input[type="text"], button{
+  color:#333;
+  font-family: Cambria, Georgia;
+}
+
+h1 {
+  color: #369;
+  font-family: Helvetica, sans-serif;
+  font-size:250%;
+}
+
+h2,h3{
+  color:#444;
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+

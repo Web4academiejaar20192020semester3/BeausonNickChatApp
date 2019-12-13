@@ -1,0 +1,9 @@
+[
+   {"email": "jan@ucll.be", "firstName": "Jan", "lastName": "Peters", "age": 35, "sex": "M", "status": "online", "role": "LID"},
+   {"email": "an@ucll.be", "firstName": "an", "lastName": "Petet", "age": 34, "sex": "V", "status": "offline", "role": "LID"},
+   {"email": "nick@ucll.be", "firstName": "Nick", "lastName": "Beauson", "age": 27, "sex": "M", "status": "online", "role": "LID"},
+   {"email": "sofie@ucll.be", "firstName": "Sofie", "lastName": "vdv", "age": 22, "sex": "V", "status": "online", "role": "LID"},
+   {"email": "margo@ucll.be", "firstName": "Margo", "lastName": "dc", "age": 26, "sex": "V", "status": "online", "role": "LID"},
+   {"email": "nala@ucll.be", "firstName": "Nala", "lastName": "Poes", "age": 1, "sex": "V", "status": "online", "role": "LID"},
+   {"email": "stitch@ucll.be", "firstName": "Stitch", "lastName": "Poes", "age": 1, "sex": "M", "status": "online", "role": "LID"}
+]
